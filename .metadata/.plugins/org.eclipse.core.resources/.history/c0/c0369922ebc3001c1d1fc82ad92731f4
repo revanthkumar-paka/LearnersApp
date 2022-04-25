@@ -1,0 +1,5 @@
+package com.learners.servlets;
+
+public @interface WebServlet {
+
+}
